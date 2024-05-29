@@ -8,20 +8,20 @@ O jogo Snake é um clássico dos videogames, originado na década de 1970 e popu
 - Movimento Contínuo: A cobra se move constantemente na direção determinada pelo jogador.
 - Pontuação: Cada fruta consumida aumenta a pontuação do jogador.
 - Colisão: O jogo termina se a cobra colidir com as paredes ou com seu próprio corpo.
-- Top Scores: Os melhores resultados dos jogadores são salvos e exibidos.
+- últimas resultados: Após o GameOver o jogador poderá colocar seu nome para registrar sua ultima pontuação obtida.
 
 # 🕹️Como Jogar:
-- Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra.
+- Utilize as teclas "W", "A", "S", "D") para controlar a direção da cobra.
 - Tente comer o máximo de frutas possível sem colidir com as paredes ou com a própria cobra.
-- Cada fruta consumida aumenta sua pontuação.
+- Cada fruta ("0") consumida aumenta sua pontuação.
 - O jogo termina quando a cobra colide com as paredes ou com seu próprio corpo.
-- Desafie-se a alcançar a maior pontuação possível e entre para o ranking de top scores!
+- Desafie-se a alcançar a maior pontuação possível!
 
 # 💻Conceitos Implementados:
 - Estruturas (structs): Utilizadas para representar as coordenadas da cobra e dos objetos no jogo.
 - Ponteiros: Empregados para alocação dinâmica de memória e manipulação da cobra.
 - Alocação Dinâmica de Memória: Utilizada para criar a cobra com tamanho variável.
-- Escrita e Leitura em Arquivo: Os melhores resultados dos jogadores são salvos e lidos de um arquivo.
+- Escrita e Leitura em Arquivo: As últimas pontuações dos jogadores são salvas e lidas de um arquivo.
 - Divirta-se jogando o Snake e desafie-se a alcançar a maior pontuação possível!
 
 # Desenvolvido por:
