@@ -12,10 +12,10 @@ O jogo Snake é um clássico dos videogames, originado na década de 1970 e popu
 
 # 🕹️Como Jogar:
 - Utilize as teclas "W", "A", "S", "D") para controlar a direção da cobra.
+- Usando a tecla "ESC" você pode sair do jogo. 
 - Tente comer o máximo de frutas possível sem colidir com as paredes ou com a própria cobra.
 - Cada fruta ("X") consumida aumenta sua pontuação.
 - O jogo termina quando a cobra colide com as paredes ou com seu próprio corpo.
-- Desafie-se a alcançar a maior pontuação possível!
 
 # 💻Conceitos Implementados:
 - Estruturas (structs): Utilizadas para representar as coordenadas da cobra e dos objetos no jogo.
