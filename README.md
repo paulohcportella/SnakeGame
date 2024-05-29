@@ -11,7 +11,7 @@ O jogo Snake é um clássico dos videogames, originado na década de 1970 e popu
 - últimas resultados: Após o GameOver o jogador poderá colocar seu nome para registrar sua ultima pontuação obtida.
 
 # 🕹️Como Jogar:
-- Baixe os arquivos do github direto para o diretório da sua maquina e digite essa linha de comando:
+- Baixe os arquivos do github direto para o diretório da sua maquina e digite a linha de comando:
   gcc -o main main.c keyboard.c screen.c timer.c
   
 - depois digite:
