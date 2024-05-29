@@ -11,6 +11,12 @@ O jogo Snake é um clássico dos videogames, originado na década de 1970 e popu
 - últimas resultados: Após o GameOver o jogador poderá colocar seu nome para registrar sua ultima pontuação obtida.
 
 # 🕹️Como Jogar:
+- Baixe os arquivos do github direto para o diretório da sua maquina e digite essa linha de comando:
+  gcc -o main main.c keyboard.c screen.c timer.c
+  
+- depois digite:
+  ./main
+  
 - Utilize as teclas "W", "A", "S", "D") para controlar a direção da cobra.
 - Usando a tecla "ESC" você pode sair do jogo. 
 - Tente comer o máximo de frutas possível sem colidir com as paredes ou com a própria cobra.
